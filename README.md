@@ -1,13 +1,13 @@
 # face-api.js
 
-[![Build Status](https://travis-ci.org/justadudewhohacks/face-api.js.svg?branch=master)](https://travis-ci.org/justadudewhohacks/face-api.js)
+[![Build Status](https://travis-ci.org/Aarzoo2/face-api.js.svg?branch=master)](https://travis-ci.org/Aarzoo2/face-api.js)
 [![Slack](https://slack.bri.im/badge.svg)](https://slack.bri.im)
 
 **JavaScript face recognition API for the browser and nodejs implemented on top of tensorflow.js core ([tensorflow/tfjs-core](https://github.com/tensorflow/tfjs))**
 
 ![faceapi](https://user-images.githubusercontent.com/31125521/57224752-ad3dc080-700a-11e9-85b9-1357b9f9bca4.gif)
 
-## **[Click me for Live Demos!](https://justadudewhohacks.github.io/face-api.js/)**
+## **[Click me for Live Demos!](https://Aarzoo2.github.io/face-api.js/)**
 
 ## Tutorials
 
@@ -64,7 +64,7 @@
 Clone the repository:
 
 ``` bash
-git clone https://github.com/justadudewhohacks/face-api.js.git
+git clone https://github.com/Aarzoo2/face-api.js.git
 ```
 
 ## Running the Browser Examples
